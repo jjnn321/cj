@@ -323,3 +323,9 @@ UKOL precist 76-78 ukazka Novy Ikaros - odpovedet na otazky - kdy kde se basen o
 	- **Maminka** (vzpominky na detstvi, domov; uprimny synovsky cit lasky)
 	- **Sel malir chude do sveta** (verse k obrazkum Mikolase Alse)
 	- **Chlapec a hvezdy** (verse k obrazkum Josefa Lady)
+- *60. leta*
+	- **Koncert na ostrove**; **Haalleyova kometa**; **Odlevani zvonu**
+	- **Morovy sloup**
+- *70. - 80. leta*
+	- **Destnik z Piccadilly**; **Byti basnikem**
+	- **Vsecky krasy sveta**
