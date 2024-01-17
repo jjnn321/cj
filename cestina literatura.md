@@ -174,6 +174,7 @@
 ### Jiri Wolker
 
 - 1900 - 1924
+- zemrel mlady
 - narodil se a zemrel v Prostejove
 - studoval gymnazium
 - o prazdninach pobyval u prarodicu na Svatem Kopecku u Olomouce
@@ -266,7 +267,7 @@
 	- **Manifesty poetismu** (s Karlem Teigem)
 ### Konstantin Biebl
 - *proletarska poezie*
-	- **Cesta k lidem **(poezie prostych veci, chlapecky pohled na svet)
+	- **Cesta k lidem** (poezie prostych veci, chlapecky pohled na svet)
 	- **Verny hlas** (pamatka J. Wolkera)
 	- **Zlom**
 	- **Zlodej z Bagdadu**
@@ -289,7 +290,7 @@ UKOL precist 76-78 ukazka Novy Ikaros - odpovedet na otazky - kdy kde se basen o
 ### Jaroslav Seifert
 - 1901-1986
 - dozil se vysokeho roku
-- obdrzel Nobelovu cenu
+- > 1984 - obdrzel Nobelovu cenu
 - narodil se do delnicke rodiny
 - studoval na gymnaziu, ale nedokoncil ho
 - > 1929 - vyloucen z komunisticke strany
@@ -329,3 +330,85 @@ UKOL precist 76-78 ukazka Novy Ikaros - odpovedet na otazky - kdy kde se basen o
 - *70. - 80. leta*
 	- **Destnik z Piccadilly**; **Byti basnikem**
 	- **Vsecky krasy sveta**
+
+### Frantisek Halas
+- 1901-1949
+- prekladatel, basnik (meditativni a subjektivni poezie)
+=> **Torzo nadeje**
+- obcanska lyrika (11 basni), reakce na mobilizace, mnichovskou zradu; autor jako mluvci naroda)
+- \*b. *Praze*, *Zpev uzkosti*, *Mobilizace*
+=> **Nase pani Bozena Nemcova**
+- k 120. vyroci Bozeny Nemcove
+=> **Ja se tam vratim**
+- basnicka lyrizovana proza
+- oslava rodneho Kunstatska, zivotni jistota domova
+- filozoficke verse o konci zivota, melodicnost a zpevnost
+
+--- 
+metafora (prirovnani):
+- ...cas mezi skrivankem a sovou...
+- ...kolinko usinajici Zimuly... (houba=kolinko)
+
+epiteton (basnicky privlastek):
+- ...sila jasu...
+- ...zetlenych vlasech...
+- ...rozestlana ornice...
+
+apostrofa:
+- ...ty muj kraji, ty me bezpeci...
+
+personifikace:
+- ...Zeme kokta a kucka...
+- ...roztrzky korenu a rozmanivost vetvovi...
+
+neogolismy (slova, ktere si autor vymyslel):
+- Zimuly
+- cucalky, lizalky
+- pekelcovani
+
+slovo, citove zabarvene, ale muze ublizit:
+- chcipacek
+
+### Frantisek Hrubin
+- vrstevnik Seiferta
+
+### Vilem Zavada
+- prekladatel
+
+### Vladimir Holan
+- basnik
+
+### Jiri Orten
+- 1919-1941
+- basnik, predstavitel existencialni poezie
+- zid
+=> **Deniky (Modra, ZIhana a Cervena kniha)**
+- z let 1938-1941
+- zaznamy, osobni uvahy, dopisy, citaty, basne s dataci vzniku
+
+---
+---
+---
+
+# Svetova proza a drama 1. poloviny 20. stoleti
+### Dva protikladne proudy realismus a naturalismus
+#### Realismus a naturalismus
+- presny a objektivni obraz skutecnosti
+- orientace siroky okruh ctenaru
+- **vznikaji literarni zanry**:
+	- rozsahle spolecenske kroniky (Galworthy, Mann Gorkij)
+	- romany zachycujici vyvoj hlavni postavy (napr. roman - reka: Rolland, Lewis, Dreiser, Solchov)
+	- kritickorealisticke romany se socialni tematikou (Mann, Steinback, Dreiser)
+	- naturalisticke romany (Sinclair)
+	- socialisticko-realisticke romany (Feuchtwanger)
+	- detektivni romany (A. Christie)
+	- literatura faktu a science-fiction, antiutopie (Orwell, Wells)
+#### Avantgarda, modernismus
+- **ubyva dejivosti** (destrukce deje, metoda proudu vedomi (Proust, Joyce, Woolfova), chybi vsevedouci vypravec)
+- prolinani casovych a vyznamovych rovin (Bulgakov)
+- **konfrontace vnitrniho sveta autora s okolim**
+- prvky expresionisticke a existencialisticke (Kafka, Werfel, Musil), prkvy absurdity
+- vyuziti podtextu (predpoklada spolupraci ctenare = domysleni, hodnoceni)
+- experimenty s jazykem a formou (fragmentarnost, vyuziti ruznych jazykovych vrstev)
+- debuizace nekterych sfer zivota (Miller)
+

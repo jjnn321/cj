@@ -1,4 +1,4 @@
-y# Administrativni styl
+# Administrativni styl
 - styl uredniho jednani
 - styl informativni a vecne komunikace s urady
 - alespoň jeden z ucastniku komunikace zastupuje nejaky urad, instituci
