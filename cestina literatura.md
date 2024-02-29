@@ -392,6 +392,7 @@ slovo, citove zabarvene, ale muze ublizit:
 
 # Svetova proza a drama 1. poloviny 20. stoleti
 ### Dva protikladne proudy realismus a naturalismus
+
 #### Realismus a naturalismus
 - presny a objektivni obraz skutecnosti
 - orientace siroky okruh ctenaru
@@ -412,3 +413,173 @@ slovo, citove zabarvene, ale muze ublizit:
 - experimenty s jazykem a formou (fragmentarnost, vyuziti ruznych jazykovych vrstev)
 - debuizace nekterych sfer zivota (Miller)
 
+## Ztracena generace
+- skupina **americkych** novinaru a spisovatelu, kteri se dobrovolne zucastnili valky v Evrope a kteri na frontach zakonite o sve idealy prisly
+- v tvorbe z 20. let vyjadruji pocity vojaku, kteri se vratili z bojist duchovne zmraceni, doma nalezli valecne zbohatliky a svet plny nejistoty = deziluze jim branila nalezt smysl zivota po valce, upratnit se
+- deprese, apatie, pocit odcizeni se blizkym
+- **autori**: Ernest Hemingway, Theodor Dreiser, Francis Scott Fitzgerald, WIlliam Faulkner, Thomas Sterns Elliot
+
+### Ernest Hemingway
+- dilo: ***Sbohem, armado***
+- pribeh tragicke lasky raneneho americkeho vojaka Frederica Henryho, dobrovolnika v italske armade za 1. sv. valky, a mlade anglicke zdravotni sestry Catherine Berkleyove
+
+### Henri Barbusse
+- dilo: ***Ohen***
+- francouzsky prozaik, prvni autor, ktery zachytil hruzy 1. sv. valky - roman vysel uz v roce 1916
+- otresny denikovy zaznam vojenske cety (podtitul *Denik bojoveho muzstva*)
+- bezprostredni vlastni zazitky z fronty (prihlasil se v 41 letech - vedl ho k tomu vlastenecky cit a presvedceni, ze musi branit svou vlast proti Nemcum)
+- 24 kapitol, bez ustredniho hrdiny
+- "**Naklad**" co vse obsahovaly kapsy a torny vojaku
+- "**Robota**" popisuje umornou drinu pri budovani zakopu
+- "**Ohen**" a "**Obvaziste**" vykresleny hruzne vyjevy bitvy a nasledne utrpeni ranenych
+- "**Prochazka**" jak vojaci prozivaji dovolenou uprostred normalniho zivota, pri prochazce ulicemi = ostry konstrast: zivot a mysleni prostych vojaku a zivot mestaku, obchodniku, kteri si ziji v bezpeci
+
+### Anatole France
+- 1844-1924
+- prozaik, kritik, esejista; **Nobelova cena** (1921)
+=> ***Historie nasich dnu*** (romanova tetralogie, satiricky obraz soucastnosti)
+=> ***Ostrov tucnaku*** (alegoricky roman, absurdni parodie francouzskych dejin od staroveku po soucasnost, satira, v zaveru utopicka vize - krach civilizace)
+
+### Romain Rolland
+- 1866-1944
+- prozaik, dramatik, autor zivotopisu vyznamnych osobnosti, historik, znalec hudby
+- **Nobelova cena** (1915)
+- predstavitel dusledneho pacifismu a humanismu
+>=> ***Jan Krystof*** (10-dilny **roman-reka** je rozvrzen podobne jako symfonie do 4 casti, jako pateticka hudebni skladba; obraz zivotnich osudu a umeleckeho zrani genialniho nemeckeho hudebniho skladatele Jana Krystofa Krafta na pozadi spolecenskeho deni (1840-1914); inspirace zivotem **L. van Beethovena**; *oslava mravni velikosti a vznesenosti zivota ve svete vseobecneho moralniho upadku*)
+> => ***Dobry clovek jeste zije*** (dej se odehrava v jednom roce za vlady Ludvika XIII. (17. stoleti) v rollandove rodnem Burgundsku; ustredni postavou je proste clovek - Colas Breugnon, starnouci truhlas a rezbar)
+> => ***Petr a Lucie*** (obžaloba nesmyslnosti války, Shakespearovský motiv tragické lásky, kompozice budována na kontrastu; tragický závěr - společná smrt pod troskami chrámu při náletu)
+
+### Henri Barbusse
+- 1873-1935)
+- prozaik a ruznalista
+>=> ***Ohen*** (1916; otresny denikovy seznam vojenske cety; bezprostredni zazitky z fronty, pohled z dola; netradicni kompozice - pasmo scen, uvah, symbolickych vizi a epizod, situaci bez ustredniho hrdiny
+
+### Antoine de Saint-Exupéry
+- Malý princ (1943)
+- alegorická filozofická pohádka pro dospělé i děti s autorovými ilustracemi
+- příběh, inspirovaný vlastním zážitkem, vypravuje pilot, který havaroval s letadlem na Sahaře
+- setkání s malým princem z daleké planety (rozdílnost pohledu dospělého a dítěte na svět); princovo setkání s liškou (naučila ho vidět srdcem, předala mu mnohé životní moudrosti)
+- proti osamocenosti -> potřeba lásky, přátelství, zodpovědnosti i oběti pro druhé lidi
+
+### Marcel Proust
+- 1871 –1922
+- klasik modernismu, prozaik
+> => ***Hledání ztraceného času*** -> 7dílný psychologický i naturalistický román prostředí
+- obraz vyšší společnosti + osobní zážitky vypravěče (autora), pocity, nálady, úvahy (v popředí vnitřní život hrdiny), oživování vzpomínek
+- netradiční kompozice -> asociativně spojené děje, prolínání časových rovin, rekonstrukce „ztraceného času“; ich-forma, vnitřní monolog, lyrizace, dlouhá souvě
+
+--- 
+- 1) Jaké tajemství prozradila liška malému princi v závěru jejich setkání?
+	- Liska prozradila Malemu princi tajemstvi o vytvareni pouta mezi lidmi
+	- **Spravne vidime jen srdcem. Co je dulezite, je ocim neviditelne**
+- 2) Na jakou pravdu lidé zapomněli a nesmí na ni zapomenout ani malý princ
+	- Maly princ se uci, ze lide zapominaly na pravdu o dulezitych vecech v zivote
+	- Patri mezi ne hlavne vytvoreni jedinecneho pouta s ostatnimi lidmi
+	- Taky pripomina, ze vztahy jsou cenne a ze bychom meli brat na vedomi jedinecnost kazdeho jednotlivce
+--- 
+
+---
+
+# Anglicka literatura
+### Realismus
+
+### John Galsworthy
+- 1867-1933
+- prozaik, dramatik
+- **Nobelova cena**
+- soubor povidek ***Ze ctyr stran sveta***
+- ***Saga rodu Forsytu***, ***Moderni komedie***, ***Konec kapitoly*** => 3 románové cykly (trilogie)
+- osudy nekolika generaci mestanske rodiny (1886-1922), vyvoj jejich vztahu k majetku a vlivu vlastnictvi na lidske povahy (egocentrismus, neschopnost, uprimneho citu)
+- v 1. cyklu obraz vztahu bohateho advokata **Soamese Forsyta** (spolecenske predsudky, samoliby sobec, citove chudy) a jeho krasne, citove zalozene zeny Ireny
+- duraz na **psychologii postav**, jejich **majetnicke pudy**
+
+### George Bernard Shaw [dží-bí-šó]
+- 1856-1950
+- irsky dramatik, kritik, esejista
+- **Nobelova cena** (1925)
+- zakladatel moderniho anglickeho dramatu
+	- do svych her vznesl *tzv. dramatickou debatu*, ktera vysvetluje hlavni myslenku hry z mnoha ruznych uhlu pohledu
+- hry s detailnimi scenickymi poznamkami a podrobnym uvodem
+- mistr vtipu, satiry a paradoxu
+- ironizujici postoj k predsudkum, hlouposti, spolecenskym konvencim
+> => ***Pygmalion*** -> satiricka komedie
+	-> nazev odkazuje na **anticky mytus** o sochari Pygmalionovi, ktery vyrezal ze slonove kosti divku tak krasnou, ze se do ni zamiloval
+	-> pribeh profesora anglictiny **Henry Higgins**e a proste londynske kvetinarky **Lizy Doolittlove**
+	-> Higgins se vsadi se svym pritelem plukovnikem **Pickering**em, ze nauci nevzdelanou kvetinarku z ulice, aby se chovala a mluvila jako vznesena dama
+>=> ***Svata Jana*** -> tragedie
+	-> historicky namet o Johance z Arku, francouzske narodni hrdince
+	-> **podobenstvi o konfliktu vyjmecneho jedince (zdraveho rozumu) s moci, autoritarstvim**
+>=> ***Zivnost pani Warrenove***
+	-> satiricka **komedie**, jejich tematikou je **kuplirstvi**
+	-> hra byla v Anglii vice nez 30 let zakazana
+> => ***Caesar a Kleopatra***
+	-> **parodie** na Shakespearovu hru Antonius a Kleopatra
+	-> kritizuje zidealizovane pojeti velke lasky
+
+---
+---
+
+# MODERNI LITERATURA
+
+### James Joyce
+- 1882-1941
+- irsky prozaik, dramatik, basnik, **zakladatel moderniho romanu** (desktrukce tradicniho romanu)
+- jeho dilo je spjato s rodnym **Dublinem**, zretelne se v nem odrazi **mysleni moderniho cloveka**, ktery neni schopen akceptovat tradicni spolecenske hodnoty, nabozenskou moralku a vzdelani, takze se s nimi nakonec rozchazi
+> *povidkovy soubor* => ***Dubliňané**** --> *15 povidek*
+- momenty ze zivota rske stredni tridny na zacatku 20. stoleti
+- poukazuje na ubohost a malost Irska, alkoholismus, narodni sovinismus
+- obhroubly jazyk
+- mnohe pasaze az **naturalisticke**, zaroven **symbolismus**
+> *roman* => ***Portret umelce v jinosskych letech*** 
+- autobiograficke dilo
+- hlavni postava Stepan Dedal
+- zobrazuje predevsim **psychicky svet postavy**, **proud** jejich **myslenek** a **vnitrni monolog**
+> *roman* => ***Odysseus***
+- psychologicky experimentalni roman s **mnohovyznamovou kompozici**
+- dej se odehrava **v Dublinu** (mesto detailne popsano), **v jeden den**, 16. cervna 1904
+- zachycuje prubeh banalnich udalosti, ktere se prihodily 3 hlavnim postavam od 8 rano do 2 hodin po pulnoci
+- pouzito dvojsmyslu, slovnich hricek, parodii a narazek na ruzna literarni dila i jine udalosti
+- **parafraze antickeho homerskeho mytu** -> dilo je rozdeleno do **3 casti a 18 kapitol**, ktere nesou nazev podle ruznych postav z Homerova eposu
+- **kazda kapitola** odpovida priblizne **jedne hodine dne** -> autor v kazde z nich uplatnuje odlisny styl psani a spojuje ji s jinou barvou, vedou nebo umenim a casti tela
+- *hlavni postavy*:
+	- Odysseus ==> Leopold Bloom
+	- Telemacha ==> Stepan Dedalus
+	- Penelope ==> Molly Bloom
+- **proud myslenek** -> nekdy spolu motivy souviseji jen volne, nekdy vubec
+- posledni kapitola - vnitrni monolog Molly Bloomove = 40 stran bez jakekoli interpunkce
+- Joyce se vyjadruje otevrene, casto **cynicky**, nevyhyba se **erotickym scenam a fantaziim** = obvinen z obscenosti, bylo pozastaveno uverejnovani jeho dila na pokracovani v americkem casopise, kde bylo poprve publikovano
+- knizne vyslo ve Francii, ale v USA a Britanii nesmelo vyjit jeste nekolik let
+
+### Virginia Woolfova
+- 1882-1941
+- prozaicka a esejistka, autorka experimentalni prozy
+- od mladi trpela psychickymi problemy (zneuzivali ji bratri), deprese se nezlepsily ani po nekolika hospitalizacich v psychiatricke lecebne
+- spachala sebevrazdu -> utopila se v rece
+*roman* => ***Jakobuv pokoj***
+- vzpominky na bratra Tobyho
+*roman* => ***Pani Dallowayova***
+- poprve pouzila metodu **proudu vedomi**
+- jeden obycejny den zdanlive nezajimave starsi zeny ze stredni tridy, ktera pripravuje vecirek pro sveho manzela
+*roman* => ***K majaku***
+- s autobiografickymi prvky -> **hledani smyslu zivota** (na pozadi 1. svetove valky) v tvurci cinnosti
+- tema rodinne odvolene na ostrove = **sonda do rodinneho zivota**, zobrazeni rozdilu mezi muzskym a zenskym svetem
+*roman* => ***Vlny***
+- napsan metodou **proudu vedomi**
+- vystupuje v nem **6 postav**, ktere maji odlisne predstavy o zivote, a **sedma postava** tajemneho Percivala, jenz umira na ceste do Indie
+*roman* => ***Orlando***
+- **fiktivni zivotopis** anglickeho slechtice, ktery se odehrava v dobe od jeho 16 do 30 let
+- prolinaji se **ruzne casove roviny** a historicke epochy
+
+### Arnold Zweig
+- 1887-1968
+- prozaik, dramatik
+- pred nacismem emigroval do Palestiny
+*romanovy cyklus* => ***Velka valka bilych muzu***
+- rozsahly romanovy cyklus, tema 1. svetove valky
+- nejznamejsi roman tohotu cyklu je ***Spor o serzanta Grisu***
+	- o tragickem osudu valecneho zajatce, pribeh justicni vrazdy - zpracovava **skutecnou udalost**
+	- Grisa v breznu 1917 uprchl z nemeckeho zajeti, v uniforme a s doklady I. P. Bjuseva byl znovu zajat, prohlasen za vyzvedace a odsouzen k smrti, nepomohlo mu priznani prave totoznosti, byl **popraven jako odstrasujici pripad a k upevneni bojove discipliny**
+
+### 
+- 
+- 
