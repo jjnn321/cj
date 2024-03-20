@@ -305,3 +305,105 @@
 			- inspirace soudnim prelicenim
 			- v minulosti velmi oblibena soucast nedelni prilohy novin
 			- znami publiciste Jakub Arbes (narodni listy), Karel Polacek (lidove noviny)
+
+# Skladba
+
+### Vypovedi:
+- **veta** - obsahuje prisudek, mezi VČ jsou vztahy mluvnicke a vyznamove
+	- => *dvojclenna*
+	- => *jednoclenna*
+### Vety jednoclenne
+- **vety s podmetem** - maji oba zakladni vetne cleny (podmet i prisudek), muzeme je rozdelit na cast podmetovou a prisudkovou
+- vztah mezi Př a Po = *predikace*
+- **vety bez podmetu** - neobsahuji podmet, maji pouze prisudek
+- prirodni jevy, dusevni a fyzicke stavy
+### Vetne ekvivalenty
+- jsou vetne konstrukce, ktere maji za urcitych podminek stejnou platnost jako vety
+- nemaji podmet ani prisudek
+- uzivame je v beznem hovoru nebo umeleckych textech
+- *jejich zaklad tvori*:
+	- Podstatna jmena - Tech lidi! Karle!
+	- Pridavna jmena - Nadherne!
+
+---
+- rozliste vety jednoclenne a vety dvojclenne
+	- jednoclenne:
+		- 1,2,4,6,7,10
+	- dvojclenne:
+		- 3,5,8,9,11
+- vetne ekvivalenty nahradte vetami dvojclennymi
+	- petre davej si pozor at nespadnes
+	- stizte se
+	- to me bolelo
+	- to je krasa
+	- pomoz mi
+	- zastavte se
+- urcete VD, VJ, VE
+	- 1 VJ
+	- 2 VD
+	- 3 VE
+	- 4 VE
+	- 5 VD
+	- 6 VD
+	- 7 VD
+	- 8 VD 
+	- 9 VD
+	- 10 VJ
+	- 11 VJ
+	- 12 VD
+---
+
+#### Shoda
+- privlastek shodny, shodny doplnek -> prebira od ridiciho clenu
+- **pad, cislo, rod**
+- prisudek se shoduje s podmetem v *osobe, cisle a rodce*
+#### Rizenost
+- predmet je v *pade*, ktery vyzaduje sloveso nebo pridavne jmeno, ktere Pt rozvyji
+#### Primykani
+= slaba zavislost
+- **prislovecne urceni** -> ridici clen nevyzaduje doplneni v jednom urcitem tvaru
+
+##### Vetnymi cleny nejsou:
+- **predlozky**, **spojky**, **castice**, **odkazovaci zajmena a prislovce**, **osloveni**, **citoslovce**
+##### Vetnymi cleny jsou:
+- **vztazna zajmena a vztazna prislovce**, jez spojuji vetu zavislou s vetou ridici
+
+---
+- Nas Pavel vcera dostal od svych kamaradu z Pribrami blahoprejne esemesky k 17. narozeninam
+
+![[Pasted image 20240307122050.png]]
+
+---
+
+### Zakladni vetne cleny
+#### Podmet
+- vetny clen, o kterem prisudek vypovida, neco o nem tvrdi
+##### Podmet nevyjadreny
+- muzeme ho doplnit podle tvaru slovesa nebo podle souvislosti
+##### Podmet vseobecny
+- je nevyjadreny podmet, ktery nedovedeme jednoznacne doplnit, *tyka se nekolika nebo mnoha lidi, ktere nemusime presne pojmenovat*
+- vety se vseobecnym podmetem => casto **rceni** a **prirovnani**
+##### Vedlejsi veta podmetna
+- podmet muze byt vyjadren take jako **VV podmetna**
+- prisudkova cast tvori vetu hlavni
+- *obsah VV muzeme vyjadrit podstatnym jmenem / infinitivem*
+- zajmena, ktera odkazuji na VV, neurcujeme vetne cleny
+
+#### Prisudek
+1) slovesny
+- **slovesny jednoduchy**
+	- tvoren urcitym tvarem jednoho slovesa
+- **slovesny slozeny**
+	- tvoren urcitym tvarem zpusoboveho (*moci, smet, musit, mit, chtit*) nebo fazoveho slovesa (*zacit, zacinat, zustat, zustavat, prestat, prestavat*) a infinitivu slovesa vyznamoveho
+	- slovesny prisudek muzeme nekdy nahradit **citoslovcem**
+2) jmenny 
+- **jmenny se sponou**
+	- tvoren podstatnym nebo pridavnym jmenem (nekdy tez zajmenem nebo prislovcem) a urcitym tvarem sponoveho slovesa
+- **jmenny beze spony**
+	- chybi sponove sloveso
+	- *slovesa byt, byvat, stat se, stavat se* **mohou mit nekdy i plny vyznam**
+---
+**slovesa zpusobova**: moci, smet, musit, mit (povinnost), chtit
+**slovesa fazova**: zacit, zacinat, zustat, zustavat, prestat, prestavat
+**slovesa sponova**: byt, byvat, stat se, stavat se
+-- -

@@ -579,7 +579,251 @@ slovo, citove zabarvene, ale muze ublizit:
 - nejznamejsi roman tohotu cyklu je ***Spor o serzanta Grisu***
 	- o tragickem osudu valecneho zajatce, pribeh justicni vrazdy - zpracovava **skutecnou udalost**
 	- Grisa v breznu 1917 uprchl z nemeckeho zajeti, v uniforme a s doklady I. P. Bjuseva byl znovu zajat, prohlasen za vyzvedace a odsouzen k smrti, nepomohlo mu priznani prave totoznosti, byl **popraven jako odstrasujici pripad a k upevneni bojove discipliny**
+	- zastaval se ho nemecky general, ale stejne **byl popraven**
 
-### 
-- 
+### Erich Maria Remarque
+- 1898-1970
+- humanisticky a protifasisticky smyslejici spisovatel
+- studoval na skole pro ucitele, v 18 odesel do valky, po valce dokoncil studia, asi rok ucil, pak stridal ruzna zamestnani -> prodaval nahorbky, **novinar - literarni a divadelni kritik**, **sportovni redaktor**, testoval pneumatiky, tvoril reklamni texty
+- v Berline se dostal do spolecnosti celebrit
+*roman* => ***Cesta zpatky**
+- volne pokracovani; navrat domu, dusledky valky -> vnitrni pradnota, vykorenenost
+*roman* => ***Tri Kamaradi***
+- oslava pratelstvi a lasky (jedine pozitivni hodnoty, ktere proverila valka)
+*roman*y => ***Vitezny oblouk***; ***Noc v Lisabonu***; ***Jiskra zivota***; ***Cas zit, cas umirat***; ***Cerny obelisk***
+
+### Stefan Zweig
+- 1889-1942
+- **rakousky** humanisticky spisovatel zidovskeho puvodu
+- odpor k nasily, k degradaci lidstvi, pacifismus
+- zajem o nitro cloveka
+- autor psychologicky presvedcivych pribehu
+*roman* => ***Netrpelivost srdce***
+- roman o lasce fyzicky tezce postizene divky k porucikovi
+- jeho soucit privede divku k sebevrazde
+
+# Realismus
+
+### Heinrich Mann
+- 1971-1950
+- **prozaik a dramatik, esejista**
+- starsi bratr Thomase Manna
+- vyucil se knihkupcem
+- zil prevazne v Mnichove a Berline
+- 1935 - ziskal ceskoslovenske obcanstvi (nechal si ho do smrti), pak zil v USA
+- cely zivot vystupoval proti nacismu
+*roman* => ***V zemi hojnosti***
+- satiricky zobrazuje prostredi spekulantu a obchodniku na burze
+*roman* => ***idk***
+- groteskni satiricky roman o despotickem gymnazialnim profesoru latiny a rectiny Raatovi, ktery si poradek ve tride udrzuje pomoci tyranskych praktik, za coz ho zaci nenavidi a rikaji mu Unrat; jeho postoje se zmeni, kdyz se zamiluje do kabaretni umelkyne Rosy, za coz je spolecenstvi zavrhovan = kritika mestanstvi a pokrytenstvi
+*trilogie* => ***Cisarstvi***
+*roman* => ***Lidice***
+
+### Thomas Mann
+- 1874-1955
+- **prozaik, esejista; Nobelova cena** (1929)
+- pracoval pro pojistovaci spolecnost jako redaktor casopisu, pak se stal spisovatelem z povolani
+*kronika* => ***Buddenbrookovi*** (podtitul **Rozpad jedne rodiny**)
+- 2-dilna romanova kronika s autobiografickymi prvky
+- **pribehy 4 generaci vyznamne obchodnicke rodiny**, jeji vzestup a pad, odehrava se v letech 1835-1876
+- zakladem romanu je **psychologicke vykresleni postav**
+*novela* => ***Smrt v Benatkach***
+- novela vypravejici **o osamelem nemeckem spisovateli** Gustavovi, ktery prijizdi do Benatek
+- ubytuje se v hotelu, kde se **platonicky zamiluje do polskeho chlapce** Tadzia; obdivuje jeho krasu, prirovnava ho k dokonalosti
+*novela* => ***Kouzelny vrch***
+- k napsani inspirovan zazitky jeho zeny z lecebny pro nemocne tuberkulozou
+- hlavni postava **Hans Castorp** se behem leceni setkava s radou dalsich pacientu z ruznych zemi a vede s nimi diskuze na nejruznejsi filozoficka temata
+*novela* => ***Mario a kouzelnik***
+- vypravi o kouzelnikovi, ktery **s lidmi manipuluje prostrednictvim hypnozy**
+- motiv homosexuality
+*roman* => ***Doktor Faust***
+- hudebni skladatel je ochoten upsat dusi dablu za novou inspiraci
+- jeho hudba je chaoticka, neuchopitelna
+- hudebnik nakonec zesili
+- v tomto dile autor **bilancuje zivot i osud Nemecka**
+*roman* => ***Josef a bratri jeho***
+- **4-dilna romanova epopej na tema Stareho zakona:** Pribehy Jakobovy, Mlady Josef, Josef v Egypte, Josef Zivitel
+- **alegorie na tema mezilidskych vztahu**
+- odpor k rasove nenavisti, zvuli
+- prolinani minulosti s pritomnosti
+- dialog se ctenarem
+
+### Lion Feuchtwanger
+- 1884-1958
+- prozaik, dramatik, basnik, divadelni kritik
+- narodil se v rodine nemeckeho tovarnika zidovskeho puvodu, matka velmi prisna
+- vystudoval filozofii a antropologii
+- v roce 1908 zacal vydavat **casopis Der Spiegel**
+- proslavil se **historickymi romany**
+*roman* => ***Oskliva vevodkyne***
+- historicky roman o zivote Markety Korutanske, recene Pyskate, manzelce mladsiho bratra Karla IV.
+*roman* => ***Zid Suss***
+. roman o financnikovi Josefu Sussovi (18. stoleti), lici jeho uspechy i zivotni pad
+*roman* => ***Lisky na vinici***
+- boj americkych osad za nezavislost a zaroven atmosfera pred Velkou francouzskou revoluci
+*roman* => ***Zidovka z Toleda***
+*roman* => ***Blaznova moudroust***
+*roman* => ***Goya***
+*roman* => ***Cekarna*** (trilogie *Uspech*, *Oppermannovi*, *Vyhnanstvi*)
+
+## Moderni literatura
+
+### Hermann Hesse
+- 1877-1962
+- prozaik, basnik, esejista; **Nobelova cena** (1946)
+- narodil se v rodine misionare, sam mel studovat teologii, ale ze seminare vystoupil
+- vyucil se knihkupcem
+- usadil se v Basileji knihkupec a zacal psat
+- 1911 -> podnikl cestu do Indie
+- vliv **psychoanalyzy, orientalni filozofie a nabozenstvi** (buddhismus)
+- odmital valku a nasili, skepse k civilizace
+*roman* => ***Siddharta***
+*roman* => ***Stepni vlk***
+- schizofrenie (chvili dravec, chvili clovek)
+*roman* => ***Hra se sklenenymi perlami***
+- utopicky roman
+- zabyva se kultivaci lidskeho ducha a pochopenim praveho smyslu duchovniho zivota
+- odehrava se ve fiktivnim svete izolovane provincie urcene pro duchovni zivot vybrane skupiny ucencu
+
+### Bertold Brecht
+- 1898-1956
+- dramatik, reziser, divadelni teoretik, basnik, prozaik, publicista; predstavitel **avantgardy**
+- tvurce *epickeho divadla*
+- studoval drama, venoval se medicine a prirodnim vedam
+- po nastupu Hitlera emigroval, zil v mnoha evropskych statech, do Nemecka se vratil v roce 1948
+*roman* => ***Matka Kuraz a jeji deti***
+- socialne zamerene drama; dej z 30-ti lete valky (17. stoleti)
+- smutny pribeh obchodnice, ktera chce pred valkou uchranit sve deti
+
+
+# Nemecky psana literatura v Cechach
+
+
+### Gustav Meyrink
+- 1868-1932
+- pravym jmenem Gustav Meyer
+- byva razen mezi prazske nemecke zidovske autory, ackoliv nebyl zidovskeho puvodu
+- predstavitel **expresionismu**
+- **sklon k mystice a orientalni filozofii**
+*roman* => ***Golem***
+- **magicky roman**
+
+### Franz Kafka
+- 1883-1924 
+- prozaik, autor aforismu
+- zidovskeho puvodu
+- vliv **expresionismu** a **existencialismu**
+- prvky absurdni prozy, **snove fantasticka atmosfera pribehu**, motivy viny a trestu
+- **hrdinove jsou anonymne manipulovani spolecnosti** => projev autorovy nejistoty, plachosti a sebepodcenovani
+- obraz **odcizeni cloveka spolecnosti i sobe samemu -> bezvychodnost, pesimismus**
+- vystudoval **prava**, pri studiu se seznamil s **Max brodem**, ktery se stal jeho dozivotnim nejlepsim pritelem -> ten potvrdil, ze **Kafka mel opravdu nizke sebevedomi**
+- osudnou zenou v jeho zivote byla **Milena Jesenska** (novinarka, prekladatelka; o 14 let starsi; kdyz se setkali, tak uz byla vdana {nakonec zemrela v koncentracnim tabore} )
+- zil velmi zdrave a stridme (nekurak, abstinent, vegetarian), presto onemocnej **tuberkulozou** a znacnou cast sveho zivota stravil v sanatoriich po cele Evrope
+*roman* => ***Dopis otci***
+- neodeslane dopisy velmi prisnemu otci
+*roman* => ***Zamek***
+- nedokonceny roman o **marne snaze** cloveka prekonat byrokracii a dosahnout prijeti do zameckych sluzeb
+- **absurdni svet ovladany anonymni moci**
+- hlavni postava **zememeric K.** 
+*roman* => ***Proces***
+- **nedokonceny roman** (10 samostatnych kapitol)
+- sporadany a pracovity bankovni urednik Josef K. je v den svych 30. narozenin navstiven neznamymi muzi, predveden k vyslechu a obzalovan z neznameho precinu
+- hlavni hrdina se snazi obhajovat, pochopit vsechny okolnosti a zjistit, podle jakych pravidel vysetrovani probiha; vse graduje u soudu, kde si jiz Josef K. vsugeroval, ze je vinen, a ke vsemu se prizna
+- po roce ho neznami muzi odvedou z jeho bytu do kamenolomu a popravi ho jako psa -> vrazi mu dyku do srdce
+- **nesmyslnost byrokraticke masinerie**
+- **nechopnost uspet v boji proti uradum => pesimismus, bezvychodnost**
+*roman* => ***Promena***
+- hlavnim hrdinou je **Rehor Samsa**, obchodni cestujici, citove i financne vykoristovany svou rodinou
+- jednoho rana se probudi promeneny v brouka
+- nakonec je vsem na obtiz, hlavne svemu otci -> ten ho v zachvatu vzteku smrtelne zrani horenym jablkem
+- Rehor na nasledky zraneni umira, rodine se ulevi, ze se ho zbavila, a zacne planovat svou budoucnost
+- **povidka** obsahuje **prvky humoru a groteky**, ktere ostre kontrastuji s pocitem bezvychodnosti hlavni postavy
+- **kontrast**: racionalni *uvazovani* x *absurdnost* situace promeny cloveka v brouka
+
+### Max Brod
+- 1884-1968
+- novinar, novinnove clanky, kritiky, recenze
+- **pritel, propagator a vydavatel Kafkova dila**
+- **skladal hudebni dila**, propagoval ceskou kulturu
+- **autor zivotopisu:** *F. Kafky, K. Sabiny, L. Janacka, H. Heineho*
+
+### Franz Werfel
+- 1890-1945
+- **basnik, prozaik, dramatik**
+- prazsky rodak, zidovsky puvod
+- **pritel F. Kafky a M. Broda**
+- predstavitel **expresionismu**
+
+### Egon Ervin Kisch
+- **novinar - ,,zurivy reporter" **
+- **mistr moderni reportaze** - brilantni, lehky styl, nadhled, zachyceni bezprostrednich zazitku
+- za valky vojenskym preportevem na balkanske forme
+*roman* => ***Zurivy Reporter***
+*roman* => ***Prazsky pitaval***
+- kriminalisticke pribehy
+*roman* => ***Trziste senzace***
+*roman* => ***Prazska dobrodruzstvi***
+*roman* => ***Prasna brana***
+
+### Pavel Eisner
+- 1889-1958
+- **basnik, prekladatel, publicista, literarni kritik, bilingvista**
+- nemecky zidovsky puvod
+- **studie a eseje o cestine**: *Chram i tvrz, Cestina poklepem i spolechem, Bohyne ceska*
+
+# USA
+## Realismus
+### Theodor Dresier
+- prozaik, zurnalista
+- socialni realismus a naturalismus
+*roman* => ***Americka tragedie***
+- socialni a psychologicky roman
+- trgicky pribeh s kriminalni zapletkou
+- **Clyde Griffith** se snazi vymanit se z chudoby, podlehne "americkemu snu" o zivotnim uspechu
+
+### Josef Steinbeck
+- 1902-1968
+- prozaik, dramatik, publicista
+- Nobelova cena (1962)
+- narodil se v rodine nemeckeho urednika a irske urcitelky; jiz v detstvi vypomahal na farmach, po stredni skole pracovat rok v cukrovaru
+- studoval historii a literaturu, studia nedokoncil
+- prispival do casopisu, pracoval jako delnik v ruznych profesich a zacal psat knihy
+*novela* => ***Plan Tortilla***
+- humornym zpusobem lici svobodny zivot "paisanose" (povalec, pijan, hrisnik, kteremu na svete neni nic svate)
+*roman* => ***Na Plecharne***
+*roman* => ***Toulky s Carleym***
+*novela* => ***Ryzacek***
+*novela* => ***O mysich a lidech***
+*roman* => ***Hrozny hnevu***
+- socialnekriticky roman o farmarske rodine Joadovych, ktera byla majiteli pudy vypuzena za sve farmy v Oklahome a vydava se za praci do bohate Kalifornie -> vycerpavajici cesta, bidny zivot pri sklizni bavlny, znicujici povoden...; postupny narust solidarity mezi delniky, soudrznost rodiny, ktera umoznuje svym clenum prekovat tezke situace
+- **motiv hroznu** = symbol hojnosti, pozdeji symbol hnevu; odkazy na Bibli (exodus, rany egyptske, sebeobetovani)
+- **liche kapitoly** = deje ve spolecnosti (spisovny jazyk)
+- **sude kapitoly** = pribeh Joadovy rodiny v chronologickem sledu (dialogy v obecne cestine, v originale oklahomsky dialekt); stridani naturalistickych a sybmolickych prvku
+*proza* => ***Na vychod od raje***
+- vrcholna proza, panaramaticky roman, kronika rodneho kraje; zahrnuje udalosti od valky Severu proti Jihu (1861-1865) az po 1. svet. valku
+- dej se odehrava na severu Kalifornie
+- **2 prolinajici se pasma**: autobiograficka vypoved o rodu Steinbeckovy matky a pribeh fiktivniho rodu Trasku
+- **prolinani prvku realnych a symbolickych**
+
+### Ernest Hemingway
+- 1899-1961
+- prozaik a novinar; **Nobelova cena (1954)**
+- pusobil jako valecny dopisovatel na frontach obou svetovych valek a take spanelske obcanske valky
+- tezce zranen jako dobrovolnik na italske fronte -> medaile za statecnost
+- aktivne sportoval (box), ucastnil se bycich zapasu, vasnive lovil
+- v nekolika dilech alias **Nick Adams**
+- k jeho dilum se vaze valecna tematika
+- **"metoda ledovce"**, ze nejz vidime jen vycnivajici spicky => podstatne vyznamy textu, zachyceni nejzakladnejsiho opravdoveho prozitku
+- **na prvky se symbolickym vyznamem**
+*roman* => ***Komu znovi hrana***
+- nametove cerpa ze spanelske obcanske valky
+- dej se odehrava ve 3 dnech, ktere na strane republikanu prozije americky dobrovolnik Robert Jordan
+- partyzani chteji vyhodit do povetri most, po kterem by nepritel mohl dopravit posily; most se podari znicit, ale pri jeho destrukci zemre nekolik Jordanovych spolecniku; Jordan je v akci zranen a umira
+- **Jordan** = typicky hrdina H. pribehu: muzny, odhodlany zit svobodne i v kritickych situacich, blizko smrti a zla; **vyznam nema jeho smrt, ale to, pro co zemrel**
+*cestopis* => ***Zelene pahorky africke***
+- **lovecky cestopis** => liceni dobrodruzneho lovu zvere v Africe
+- mnoho **uvah o zivote** nebo literature
+- v obecne rovine pribehu: *rybar = clovek*, *ryba = priroda*, *zraloci = zlo*
+
+### a
 - 
